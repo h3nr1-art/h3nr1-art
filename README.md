@@ -2,6 +2,7 @@
 
 _ Hi i'm Henri ! 🌠  
 _ I like low level coding
+
 _ My principal language is C because no bullshit
 
 _ My pronouns are he/him 🚹  
